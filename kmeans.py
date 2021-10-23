@@ -1,5 +1,5 @@
 ##################
-# INITIALIZATION ##
+# INITIALIZATION #
 ##################
 
 # dictionary containing the points in (D) - Key: point | Value: point coordinates
